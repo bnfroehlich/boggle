@@ -33,7 +33,7 @@ public class Scramble {
 	public Scramble() {
 		createFrame();
 		dictionary = new Dictionary();
-		newGame("REMDUR");
+		newGame("AEIOUY");
 	}
 	
 	private void createFrame() {
